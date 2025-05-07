@@ -3,60 +3,70 @@
     "cím": "A kőszívű ember fiai",
     "szerző": "Jókai Mór",
     "kiadás-éve": 1869,
-    "ár": 3500
+    "ár": 3500,
+    "Nyelv": "Magyar"
   },
   {
     "cím": "Egri csillagok",
     "szerző": "Gárdonyi Géza",
     "kiadás-éve": 1901,
-    "ár": 4000
+    "ár": 4000,
+    "Nyelv": "Magyar"
   },
   {
     "cím": "Pál utcai fiúk",
     "szerző": "Molnár Ferenc",
     "kiadás-éve": 1906,
-    "ár": 3000
+    "ár": 3000,
+    "Nyelv": "Magyar"
   },
   {
     "cím": "Az arany ember",
     "szerző": "Jókai Mór",
     "kiadás-éve": 1872,
-    "ár": 4500
+    "ár": 4500,
+    "Nyelv": "Magyar"
   },
   {
     "cím": "Tüskevár",
     "szerző": "Fekete István",
     "kiadás-éve": 1957,
-    "ár": 3200
+    "ár": 3200,
+    "Nyelv": "Magyar"
   },
   {
     "cím": "Új",
     "szerző": "Fekete István",
     "kiadás-éve": 1957,
-    "ár": 3200
+    "ár": 3200,
+    "Nyelv": "Magyar"
   },
   {
     "cím": "Légy jó mindhalálig",
     "szerző": "Móricz Zsigmond",
     "kiadás-éve": 1920,
-    "ár": 2800
+    "ár": 2800,
+    "Nyelv": "Magyar"
   },
   {
     "cím": "Abigél",
     "szerző": "Szabó Magda",
     "kiadás-éve": 1970,
-    "ár": 3700
+    "ár": 3700,
+    "Nyelv": "Magyar"
   },
   {
     "cím": "A Pál utcai fiúk",
     "szerző": "Molnár Ferenc",
     "kiadás-éve": 1906,
-    "ár": 3000
+    "ár": 3000,
+    "Nyelv": "Magyar"
   },
   {
     "cím": "Kincskereső kisködmön",
     "szerző": "Móra Ferenc",
     "kiadás-éve": 1018,
-    "ár": 2500
+    "ár": 2500,
+    "Nyelv": "Magyar"
   }
 ]
